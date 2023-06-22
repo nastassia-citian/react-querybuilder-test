@@ -1,0 +1,38 @@
+{
+  "name": "react-querybuilder-test",
+  "version": "1.0.0",
+  "description": "react-querybuilder-test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-querybuilder/antd": "^6.5.0",
+    "antd": "^4.20.2",
+    "next": "^12.1.4",
+    "next-remove-imports": "^1.0.8",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "@types/pdfmake": "^0.1.19",
+    "@types/react": "17.0.43",
+    "@types/react-dom": "^17.0.11",
+    "@typescript-eslint/eslint-plugin": "^5.12.1",
+    "@typescript-eslint/parser": "^5.12.1",
+    "eslint": "^8.9.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.29.1",
+    "eslint-plugin-tsdoc": "^0.2.14",
+    "sass": "^1.51.0",
+    "typescript": "^4.5.2"
+  },
+  "resolutions": {
+    "@types/react": "17.0.43"
+  }
+}
