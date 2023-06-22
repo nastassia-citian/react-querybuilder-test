@@ -1,7 +1,6 @@
 import React from 'react';
 import App from 'next/app';
 import Head from 'next/head';
-import 'antd/dist/antd.dark.css'; // or import "antd/dist/antd.css";
 
 class MyApp extends App {
     render() {
